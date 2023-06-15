@@ -18,7 +18,7 @@ public:
 			return "";
 		}
 
-		top++; // step 2
+		top++; // step 2 
 		stack_array[top] = element; // step 3
 		cout << endl;
 		cout << element << " ditambahkan(pushed)" << endl;
